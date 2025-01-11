@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: 2025年大学生联合学术论坛!
+    text: United Academic Forum for College Students 2025
+    button: 了解更多
     buttonlink: "#services"
 
   services:

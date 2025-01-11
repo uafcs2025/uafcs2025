@@ -12,33 +12,33 @@
 en: &DEFAULT_EN
   header:
     title: United Academic Forum for College Students 2025
-    text: 2025年大学生联合学术论坛!
+    text: 2025年度大学生联合学术论坛
     button: 了解更多
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "论坛内容"
+    text: "Contents"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "学术报告"
+        desc: "通过六大方向（数学、物理、化学、生物、计算机、人工智能）的分会场学术报告与讨论，促进学科内外的学术思想交流与知识分享。"
+        icon: fas fa-chalkboard #find more at https://fontawesome.com/icons
+      - title: "院所访问"
+        desc: "以六大学科方向为主题，集体参观中国科学院京区各研究所，开展实验室参观、研究成果展示与深入交流，增进学生对前沿科研工作的了解和实践感知。"
+        icon: fas fa-building
+      - title: "校际交流" # "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "以学生为主体，通过多学科、多形式的互动，搭建联合学术论坛合作高校学生间分享经验、拓展视野和促进合作的平台。"
+        icon: fas fa-globe
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "开展活动"
+    text: "Activities"
     section: portfolio
     closebutton: "关闭"
 
   timeline:
-    title: "Timeline"
+    title: "时间"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -129,20 +129,20 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+  # contact:
+  #   title: "Contact Us"
+  #   text: "Lorem ipsum or call 123456789"
+  #   section: contact
+  #   name: "Name*"
+  #   name-validation: "Please enter your name."
+  #   email: "Email*"
+  #   email-validation: "Please enter your email address."
+  #   phone: "Phone Number"
+  #   phone-validation: "Please enter your phone number."
+  #   message: "Message*"
+  #   message-validation: "Please enter a message."
+  #   subject: "Contact Form Submission"
+  #   submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"

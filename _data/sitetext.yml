@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 2025年大学生联合学术论坛!
-    text: United Academic Forum for College Students 2025
+    title: United Academic Forum for College Students 2025
+    text: 2025年大学生联合学术论坛!
     button: 了解更多
     buttonlink: "#services"
 
@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "关闭"
 
   timeline:
     title: "Timeline"

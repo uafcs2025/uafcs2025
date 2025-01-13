@@ -1,18 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
-alt: 
+title: 合作协定签约仪式
+subtitle: 各校代表签约后合影
+image: assets/img/portfolio/4各校代表团签约后合影.png
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: 合作协定签约仪式
+  subtitle: 
+  thumbnail: assets/img/portfolio/4各校代表团签约后合影.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
-
+- 各校本科生代表团团长续签联合学术论坛合作协定，促进未来的进一步交流与合作。

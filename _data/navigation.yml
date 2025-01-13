@@ -11,20 +11,20 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "论坛内容"
       section: services
-    - title: "Portfolio"
+    - title: "开展活动"
       section: portfolio
-    - title: "About"
+    - title: "论坛日程"
       section: about
-    - title: "Timeline"
+    - title: "关于UAFCS"
       section: timeline
-    - title: "Team"
+    - title: "合作单位"
       section: team
-    - title: "Contact"
+    - title: "联系我们"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    # - title: "Theme Source"
+    #   url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:

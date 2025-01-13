@@ -1,18 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-full.jpg
+title: 文化与学术融合活动
+subtitle: 同学们进入到北京正负电子对撞机内部参观
+image: assets/img/portfolio/6同学们进入到北京正负电子对撞机内部参观.png
 alt: 
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: 文化与学术融合活动
+  subtitle: 
+  thumbnail: assets/img/portfolio/6同学们进入到北京正负电子对撞机内部参观.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- 参观中国科学院京区各研究所先进实验设施与展览，促进学生之间的联谊与合作，同时深刻感受科研文化的熏陶。
 

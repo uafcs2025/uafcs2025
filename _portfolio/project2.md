@@ -1,18 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: 研究所参观与学习
+subtitle: 各校代表在数学所合影
+image: assets/img/portfolio/2各校代表在数学所合影.jpg
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: 研究所参观与学习
+  subtitle: 
+  thumbnail: assets/img/portfolio/2各校代表在数学所合影.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- 参观中国科学院数学与系统科学研究院、化学研究所、生物物理研究所、高能物理研究所等，了解各研究所的科研成果、设备与历史。
 

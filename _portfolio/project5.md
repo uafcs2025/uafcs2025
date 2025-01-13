@@ -1,18 +1,14 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+title: 互动讨论与自由交流
+subtitle: 茶歇期间学术经验交流
+image: assets/img/portfolio/5茶歇期间学术经验交流.jpg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: 互动讨论与自由交流
+  subtitle: 
+  thumbnail: assets/img/portfolio/5茶歇期间学术经验交流.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
-
+- 各校代表团之间以及与研究所师生进行自由提问与交流，讨论科研课题，拓宽学术视野。

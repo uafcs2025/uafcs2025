@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "论坛内容"
-    text: "Contents"
+    text: "Forum Contents"
     section: services
     list:
       - title: "学术报告"
@@ -32,36 +32,36 @@ en: &DEFAULT_EN
         icon: fas fa-globe
 
   portfolio:
-    title: "开展活动"
-    text: "Activities"
+    title: "论坛活动"
+    text: "Forum Activities"
     section: portfolio
     closebutton: "关闭"
 
   timeline:
-    title: "时间"
-    text: "Lorem ipsum timeline"
+    title: "关于联合学术论坛"
+    text: "About UAFCS"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "正式成立"
+        year: "2021"
+        desc: "大学生联合学术论坛（UAFCS）在南京大学匡亚明学院学生会、上海交通大学致远学院学生会、中国科学院大学本科部团委、中国科学技术大学格物致知社、西安交通大学钱学森书院学业辅导中心等成员单位的大力支持下正式建立。"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "蓬勃发展与成果"
+        year: "2021-2022"
+        desc: 联合学术论坛作为各校有志于基础科学科研的学生进行学术交流分享的校际学生组织，始终坚持加强各校交流互通的渠道、发扬资源共享的精神，与超理论坛深入合作，并在编纂《飞跃手册》、支持《珠峰学报》投稿、开展寒暑期研讨班、超理论坛合作等方面工作取得重要进展。
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "合作协定签约与发展会议"
+        year: "2023.10"
+        desc: 为进一步规范合作活动管理机构的有效运作，加强各成员单位间的合作联系，有效利用成员单位的优势科研资源，提高联合学术论坛作为基础科研校际交流平台的影响力和专业性，联合学术论坛理事会于2023年10月21日-22日, 在轮值负责成员单位—中国科学院大学本科部，举行第一届合作协定签约仪式暨学科发展交流会议，开展联合学术论坛协定更新签约、各校代表团会面交流、中国科学院院属研究所参观、研究员学术交流等活动。
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "第二次联合学术论坛"
+        year: "2025"
+        desc: 2025年3月，将在中国科学院大学举行第二次大学生联合学术论坛。
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -69,8 +69,8 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: "论坛日程"
+    text: "agenda"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
@@ -78,74 +78,88 @@ en: &DEFAULT_EN
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "合作单位"
+    text: "五座学校hezuo"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
+    horizontal-scrolling: "yes"
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "中国科学院大学本科部团委"
+        role: "主办单位"
+        image: assets/img/team/ucas.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+          - url: https://weixin.qq.com/
+            icon: fab fa-weixin
+          - url: https://im.qq.com/index/
+            icon: fab fa-qq
+          - url: https://weibo.com
+            icon: fab fa-weibo
+          - url: https://www.ucas.ac.cn/
+            icon: fas fa-globe
+      - name: "南京大学匡亚明学院学生会"
+        role: "承办单位"
+        image: assets/img/team/nju.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+          - url: https://weixin.qq.com/
+            icon: fab fa-weixin
+          - url: https://im.qq.com/index/
+            icon: fab fa-qq
+          - url: https://weibo.com
+            icon: fab fa-weibo
+          - url: https://www.nju.edu.cn/
+            icon: fas fa-globe
+      - name: |
+          西安交通大学钱学森书院
+        role: "承办单位"
+        image: assets/img/team/xianth.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://weixin.qq.com/
+            icon: fab fa-weixin
+          - url: https://im.qq.com/index/
+            icon: fab fa-qq
+          - url: https://weibo.com
+            icon: fab fa-weibo
+          - url: https://www.xjtu.edu.cn/
+            icon: fas fa-globe
+      - name: "中国科学技术大学格物致知社"
+        role: "承办单位"
+        image: assets/img/team/ustc.jpg
+        social:
+          - url: https://weixin.qq.com/
+            icon: fab fa-weixin
+          - url: https://im.qq.com/index/
+            icon: fab fa-qq
+          - url: https://weibo.com
+            icon: fab fa-weibo
+          - url: https://www.ustc.edu.cn/
+            icon: fas fa-globe
+      - name: "超理论坛"
+        role: "承办单位"
+        image: assets/img/team/chaoli.png
+        social:
+          - url: https://chaoli.club/
+            icon: fas fa-globe
 
-  # contact:
-  #   title: "Contact Us"
-  #   text: "Lorem ipsum or call 123456789"
-  #   section: contact
-  #   name: "Name*"
-  #   name-validation: "Please enter your name."
-  #   email: "Email*"
-  #   email-validation: "Please enter your email address."
-  #   phone: "Phone Number"
-  #   phone-validation: "Please enter your phone number."
-  #   message: "Message*"
-  #   message-validation: "Please enter a message."
-  #   subject: "Contact Form Submission"
-  #   submit: "Send Message"
+  contact:
+    title: "联系我们"
+    text: "欢迎加入UAFCS2025！"
+    section: contact
+    name: "姓名*"
+    name-validation: "请输入有效姓名"
+    email: "邮箱*"
+    email-validation: "请输入邮箱地址"
+    phone: "手机号"
+    phone-validation: "请输入手机号"
+    message: "信息*"
+    message-validation: "请输入信息"
+    subject: "Contact Form Submission"
+    submit: "提交"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "隐私政策"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
@@ -153,8 +167,6 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 en-US:

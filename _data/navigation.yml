@@ -13,10 +13,12 @@ en: &DEFAULT_EN
   nav:
     - title: "论坛内容"
       section: services
-    - title: "开展活动"
+    - title: "论坛活动"
       section: portfolio
     - title: "论坛日程"
       section: about
+    - title: "agenda"
+      section: agenda
     - title: "关于UAFCS"
       section: timeline
     - title: "合作单位"
@@ -50,8 +52,8 @@ es: &DEFAULT_ES
       section: equipo
     - title: "Contáctenos"
       section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    # - title: "Fuente de la plantilla"
+    #   url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
 es-CO:

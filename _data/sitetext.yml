@@ -70,20 +70,71 @@ en: &DEFAULT_EN
 
   about:
     title: "论坛日程"
-    text: "agenda"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    text: "Agenda"
+    body: 目前论坛日程暂未确定，敬请期待。
+    分会场学术交流:
+      表格:
+        表头:
+          - 时间段
+          - 地点
+          - 内容
+        表格内容:
+          - [14:00 - 14:30, 主会场（礼堂/教室A）, 开幕式：欢迎致辞、活动简介、学术论坛安排说明]
+          - [14:30 - 17:30, 分会场教室1（数学）, 数学方向：学术报告与讨论]
+          - [14:30 - 17:30, 分会场教室2（物理）, 物理方向：学术报告与讨论]
+      # 继续添加其他表格行
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    # "2025年3月29日（周六）"
+    #   html: 
+    #     <h3>分会场学术交流</h3>
+    #     <table>
+    #       <thead>
+    #         <tr>
+    #           <th>时间段</th>
+    #           <th>地点</th>
+    #           <th>内容</th>
+    #         </tr>
+    #       </thead>
+    #       <tbody>
+    #         <tr>
+    #           <td>14:00 - 14:30</td>
+    #           <td>主会场（礼堂/教室A）</td>
+    #           <td>开幕式：欢迎致辞、活动简介、学术论坛安排说明</td>
+    #         </tr>
+    #         <tr>
+    #           <td>14:30 - 17:30</td>
+    #           <td>分会场教室1（数学）</td>
+    #           <td>数学方向：学术报告与讨论</td>
+    #         </tr>
+    #         <tr>
+    #           <td>14:30 - 17:30</td>
+    #           <td>分会场教室2（物理）</td>
+    #           <td>物理方向：学术报告与讨论</td>
+    #         </tr>
+    #         <!-- 继续添加其他表格行 -->
+    #       </tbody>
+    #     </table>
+  # - date: "2025年3月30日（周日）"
+  #   html: >
+  #     <!-- 第二天表格内容，类似格式 -->
+    section: agenda
+
+  # agenda:
+  #   title: "论坛日程"
+  #   text: "Agenda"
+  #   body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+  #   section: agenda
+
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "no" #"yes/no"
 
 
   team:
     title: "合作单位"
     text: "五座学校hezuo"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 测试
     section: team
     horizontal-scrolling: "yes"
     people:
@@ -245,23 +296,23 @@ es: &DEFAULT_ES
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: nosotros
 
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: clientes
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"

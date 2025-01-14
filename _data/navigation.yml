@@ -16,8 +16,8 @@ en: &DEFAULT_EN
     - title: "论坛活动"
       section: portfolio
     - title: "论坛日程"
-      section: about
-    - title: "agenda"
+      section: agenda
+    - title: "论坛议程"
       section: agenda
     - title: "关于UAFCS"
       section: timeline
